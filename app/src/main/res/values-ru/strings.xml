@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prac3</string>
+    <string name="hint">Напишите сюда что-то</string>
+    <string name="next_window">Следующее окно</string>
+    <string name="last_window">Предыдущее окно</string>
+</resources>
